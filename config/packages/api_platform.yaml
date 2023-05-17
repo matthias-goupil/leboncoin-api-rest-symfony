@@ -1,0 +1,3 @@
+api_platform:
+  patch_formats:
+    json: ['application/json']
